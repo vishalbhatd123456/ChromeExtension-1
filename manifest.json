@@ -1,0 +1,7 @@
+{
+    "name":"upcoming concerts",
+    "version":"1.0.0",
+    "description":"Concert data",
+    "manifest_version":3,
+    "author":"vishal.bhat"
+}
